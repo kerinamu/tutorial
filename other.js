@@ -1,1 +1,1 @@
-console.log(other-developper);
+console.log("other-developper");
